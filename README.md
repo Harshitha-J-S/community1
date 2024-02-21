@@ -9,15 +9,7 @@ Hibernate/JPA: These are often used in Spring Boot projects for object-relationa
 Thymeleaf: It's a server-side Java template engine for web and standalone environments. It's commonly used with Spring Boot for server-side rendering of HTML templates.
 MySQl : This database is used to store the details of community individuals.
 
-Methodology :
-
-Frontend Development:
-Design user interfaces for registration, login, profile management, and data entry.
-Use HTML, CSS, and JavaScript to create responsive and user-friendly web pages.
-Implement client-side validation to enhance user experience.
-
-Backend Development:
-Implement user authentication and authorization.
-Develop CRUD (Create, Read, Update, Delete) operations for managing community members' data.
-Integrate with a database (e.g., MySQL, PostgreSQL) using Hibernate/JPA for object-relational mapping.
-Implement data validation and error handling mechanisms.
+How to run :
+Change the user name and password of mysql connection accordingly.
+Java 17 version is used.
+Check whether maven is installed by running the command mvn --v in terminal. 
