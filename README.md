@@ -13,3 +13,4 @@ How to run :
 Change the user name and password of mysql connection accordingly.
 Java 17 version is used.
 Check whether maven is installed by running the command mvn --v in terminal. 
+localhost:8080
